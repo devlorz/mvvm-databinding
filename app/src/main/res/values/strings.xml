@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mvvm-databinding</string>
+    <string name="prompt_email">Enter email address</string>
+    <string name="prompt_password">Enter password</string>
+    <string name="action_sign_in_short">Sign in</string>
+</resources>
